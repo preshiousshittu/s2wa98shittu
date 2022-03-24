@@ -1,0 +1,23 @@
+{
+  "name": "s2wa98shittu",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.17.3",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "description": "Assignment 9",
+  "main": "app.js",
+  "keywords": [
+    "assignment"
+  ],
+  "author": "Precious Shittu",
+  "license": "ISC"
+}
